@@ -16,7 +16,7 @@ The website presents the fictional lawyer, her practice areas, approach to clien
 
 - Fully responsive layout
 - Mobile navigation
-- Smooth scroll animations and microinteractions
+- Smooth animations and microinteractions
 - Accessible FAQ accordion
 - Contact form interface
 - WhatsApp call-to-action
@@ -106,6 +106,10 @@ All generated implementations were manually reviewed and adjusted as necessary.
 All names, contact information, professional registration numbers, addresses and other identifying information displayed on this website are fictional.
 
 This website was created exclusively as a conceptual portfolio project and does not provide legal services or legal advice.
+
+## Live Demo
+
+[View the live website](https://helena-martins-landing-page.vercel.app/)
 
 ## Author
 
